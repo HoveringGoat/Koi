@@ -1,0 +1,12 @@
+
+KoiFarm-win32-x64
+*.pak
+*.dll
+*.dat
+*.cmd
+*.ps1
+node_modules
+package-lock.json
+package.json
+squish.py
+release.html
